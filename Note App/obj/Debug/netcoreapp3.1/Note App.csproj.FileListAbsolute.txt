@@ -1,0 +1,16 @@
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.csprojAssemblyReference.cache
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.csproj.GenerateResource.cache
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.AssemblyInfoInputs.cache
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.AssemblyInfo.cs
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.csproj.CoreCompileInputs.cache
+C:\Users\bmice\Desktop\Note App\Note App\bin\Debug\netcoreapp3.1\Note App.exe
+C:\Users\bmice\Desktop\Note App\Note App\bin\Debug\netcoreapp3.1\Note App.deps.json
+C:\Users\bmice\Desktop\Note App\Note App\bin\Debug\netcoreapp3.1\Note App.runtimeconfig.json
+C:\Users\bmice\Desktop\Note App\Note App\bin\Debug\netcoreapp3.1\Note App.runtimeconfig.dev.json
+C:\Users\bmice\Desktop\Note App\Note App\bin\Debug\netcoreapp3.1\Note App.dll
+C:\Users\bmice\Desktop\Note App\Note App\bin\Debug\netcoreapp3.1\Note App.pdb
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.dll
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.pdb
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note App.genruntimeconfig.cache
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note_App.CumButton.resources
+C:\Users\bmice\Desktop\Note App\Note App\obj\Debug\netcoreapp3.1\Note_App.Properties.Resources.resources
